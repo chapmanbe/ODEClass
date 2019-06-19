@@ -4,15 +4,18 @@ authors = ["Brian Chapman <brian.chapman@utah.edu>"]
 version = "0.1.0"
 
 [deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 GR = "28b8d3ca-fb5f-59d9-8090-bfdbd6d07a71"
 IntervalArithmetic = "d1acc4aa-44c8-5952-acd4-ba5d80a2a253"
 IntervalRootFinding = "d2bf35a9-74e0-55ec-b149-d360ff49b807"
+MySQL = "39abe10b-433b-5dbd-92d4-e302a9df00cd"
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
 Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
 SymEngine = "123dc426-2d89-5057-bbad-38513e3affd8"
 SymPy = "24249f21-da20-56a4-8eb1-6a02cf4ae2e6"
+TextAnalysis = "a2db99b7-8b79-58f8-94bf-bbc811eef33d"
 
 [compat]
 julia = "1.1"
