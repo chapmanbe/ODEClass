@@ -1,0 +1,13 @@
+name = "ODEClass"
+uuid = "666bc32e-92a0-11e9-2763-97bef82e7ec9"
+authors = ["Brian Chapman <brian.chapman@utah.edu>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
